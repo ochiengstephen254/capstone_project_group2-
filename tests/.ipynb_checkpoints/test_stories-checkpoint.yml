@@ -1,0 +1,14 @@
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
+version: "3.1"
+
+test_stories:
+  - story: Test initial registration response
+    steps:
+      - user: |
+          How do I register for the Social Health Insurance Fund?
+        intent: initial_registration
+      - action: utter_initial_registration
+
+
+  

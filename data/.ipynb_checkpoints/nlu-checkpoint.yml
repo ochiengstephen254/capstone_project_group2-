@@ -1,0 +1,14 @@
+version: "3.1"
+
+nlu:
+- intent: initial_registration
+  examples: |
+    - How do I register for the Social Health Insurance Fund?
+    - What is the process for registering for the Social Health Insurance Fund?
+    - Where can I apply for the Social Health Insurance Fund?
+    - How do I sign up for the health insurance fund?
+    - Ninawezaje kujisajili kwa Mfuko wa Bima ya Afya ya Kijamii?
+    - Je, kuna mchakato gani wa kujiandikisha kwa Mfuko wa Bima ya Afya ya Kijamii?
+    - Ninaweza kuomba wapi kwa Mfuko wa Bima ya Afya ya Kijamii?
+    - Je, nitawezaje kujiandikisha kwa bima ya afya ya kijamii?
+
