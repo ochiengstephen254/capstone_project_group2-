@@ -1,0 +1,20 @@
+{
+  "0": "affirm",
+  "1": "ask_about_shif",
+  "2": "bot_challenge",
+  "3": "deny",
+  "4": "difference_shif_nhif",
+  "5": "goodbye",
+  "6": "greet",
+  "7": "mood_great",
+  "8": "mood_unhappy",
+  "9": "shif_benefits",
+  "10": "shif_claims",
+  "11": "shif_eligibility",
+  "12": "shif_feedback",
+  "13": "shif_governance",
+  "14": "shif_hospitals",
+  "15": "shif_mandatory",
+  "16": "shif_payment_methods",
+  "17": "shif_registration"
+}

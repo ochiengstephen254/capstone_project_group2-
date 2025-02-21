@@ -1,0 +1,15 @@
+version: "3.1"
+
+intents:
+ 
+  - initial_registration
+
+responses:
+  
+  utter_initial_registration:
+    - text: "To register for the Social Health Insurance Fund, you must apply within 90 days of the regulations coming into effect. You need to fill out Form 1, which is available in the First Schedule of the regulations. Your application should include:\n- A copy of your national identification document, or\n- If you do not have a national ID, any other document approved by the Authority.\n\nFor children without identification, documents from the State Department for Social Protection will be required. Upon approval, you will receive a Social Health Insurance Number within 14 days. You will also need to provide your biometric data at a designated service point. Special arrangements are available for persons with disabilities, the elderly, and marginalized groups.\n\nWould you like assistance in obtaining the registration form?"
+    - text: "Ili kujisajili kwa Mfuko wa Bima ya Afya ya Kijamii, lazima uombe ndani ya siku 90 tangu kanuni hizi zianze kutumika. Unahitaji kujaza Fomu ya 1, inayopatikana katika Ratiba ya Kwanza ya kanuni hizi. Maombi yako yanapaswa kujumuisha:\n- Nakala ya kitambulisho cha kitaifa, au\n- Ikiwa huna kitambulisho cha kitaifa, hati nyingine yoyote iliyoidhinishwa na Mamlaka.\n\nKwa watoto wasio na vitambulisho, nyaraka kutoka Idara ya Ulinzi wa Kijamii zitahitajika. Baada ya maombi kuidhinishwa, utapewa Nambari ya Bima ya Afya ya Kijamii ndani ya siku 14. Pia utahitajika kutoa data zako za biometriki katika kituo maalum cha huduma. Kuna mipango maalum kwa watu wenye ulemavu, wazee, na jamii zilizo pembezoni.\n\nJe, ungependa msaada wa kupata fomu ya usajili?"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
