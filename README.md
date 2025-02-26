@@ -1,5 +1,7 @@
 # MEDIBOT-SOCIAL HEALTH INSURANCE CHATBOT PROJECT
 ![_Mastering the Art of Storytelling_ Tips for Aspiring Writers 📖_](https://github.com/user-attachments/assets/602c7177-7c69-4073-83ba-ebec3aaf2f96)
+
+
 This project uses sentiment analysis of Twitter data, combined with the FAQ on SHA and the SHA Act, to understand public views on the Social Health Authority (SHA) and its Social Health Insurance Fund (SHIF). MediBot, a medical chatbot, simplifies SHA regulations, enhances engagement, and drives informed decisions in Kenya’s healthcare landscape.
 
 ## Overview
@@ -16,6 +18,7 @@ scheme.
   
 ## Data Source 
 [Social Health Insurance (General) Regulations, 2023](https://www.health.go.ke/sites/default/files/2023-11/SOCIAL%20HEALTH%20INSURANCE%20%28GENERAL%29%20REGULATIONS%20%2C2023.pdf)
+
 [SHA FAQ's](http://localhost:8888/files/data/Frequently-Asked-Questions-FAQs-on-Social-Health-Authority-SHA-.pdf)
 
 ## Data Understanding
@@ -54,5 +57,7 @@ Deployed via Flask, the chatbot provides seamless accessibility through SHA’s 
 - Expand deployment channels to include SMS and WhatsApp for broader accessibility.
 
 ## Next Steps
-- Conduct user testing to evaluate chatbot performance and refine responses based on feedback. User testing engages SHA users (e.g., beneficiaries, staff) to assess the RASA chatbot’s accuracy,speed, and conversation flow. Feedback on response clarity and relevance helps refine intentrecognition and dialogue, ensuring alignment with SHA’s needs. - Automate dataset updates to incorporate evolving SHA policies and user concerns. Automating updates keeps the chatbot current by integrating new SHA policies (e.g., eligibilitychanges) and user concerns (e.g., funding issues) from sources like X and news, maintainingaccuracy and relevance over time.
+- Conduct user testing to evaluate chatbot performance and refine responses based on feedback. User testing engages SHA users (e.g., beneficiaries, staff) to assess the RASA chatbot’s accuracy,speed, and conversation flow. Feedback on response clarity and relevance helps refine intentrecognition and dialogue, ensuring alignment with SHA’s needs.
+
+- Automate dataset updates to incorporate evolving SHA policies and user concerns. Automating updates keeps the chatbot current by integrating new SHA policies (e.g., eligibilitychanges) and user concerns (e.g., funding issues) from sources like X and news, maintainingaccuracy and relevance over time.
 
