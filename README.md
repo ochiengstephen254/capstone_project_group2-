@@ -26,11 +26,23 @@ Data cleaning removed duplicates, handled missing values, and normalized text (e
 
 ## Data Visuaization
 The following three visualizations are used:
-- Sentiment Analysis – Categorizes tweets into negative, neutral, and positivesentiments.
-- Tweet Volume Over Time – Tracks tweet activity from October 2024 to February 2025, showing fluctuations in public engagement based on SHA-related events or announcements
+- Sentiment Analysis – Categorizes tweets into negative, neutral, and positive sentiments.
+  
+
+  ![PHOTO-2025-02-26-20-33-31 (2)](https://github.com/user-attachments/assets/493e3604-f0d4-41c8-8321-04b25d519ec7)
+  
+
+- Tweet Volume Over Time – Tracks tweet activity from October 2024 to February 2025, showing fluctuations in public engagement based on SHA-related events or announcements.
+  
+
+  ![PHOTO-2025-02-26-20-33-32 (3)](https://github.com/user-attachments/assets/051527f5-67c2-4a2f-9b6d-9909eb0c0e56)
+  
+
 - Word Cloud – Shows the most frequent terms, with negative words like “failing,” “scam,” indicating frustration, while “working” and “great” suggest some positive sentiment.
+  
 
   ![PHOTO-2025-02-26-20-33-32 (1)](https://github.com/user-attachments/assets/c9b5d56b-db41-4632-b9e6-69d726b43314)
+  
 
 ## Modeling
 - XGBoost
