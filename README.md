@@ -11,7 +11,7 @@ This has led to misinformation, low enrollment and difficulties in registration 
 ## Objectives
 - Develop an AI Chatbot aimed at promoting understandingand increased adoption of SHA in the country by providing accurate, instant and accessible information about the
 scheme.
-- Implement an NLP model to understand about the scheme eligibility, benefits, contributions, claim procedures and the enrollment process.
+- Implement an NLP model to understand the scheme eligibility, benefits, contributions, claim procedures and the enrollment process.
 - Implement and deploy a web-based chatbot that ensures user interactivity.
 - Develop an accurate chatbot model that closes SHA’s info gap, supporting with timely, clear healthcare details efficiently.
 
